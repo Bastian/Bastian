@@ -2,6 +2,8 @@
 
 *Professional full-stack developer & Open-Source enthusiast*
 
+![Bastian's github stats](https://github-readme-stats.vercel.app/api?username=Bastian&show_icons=true&include_all_commits=true&hide_title=true&count_private=true)
+
 ### My projects
 
 * [Javacord](https://github.com/Javacord/Javacord), a popular Java library for creating Discord bot.
