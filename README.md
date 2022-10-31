@@ -9,3 +9,7 @@
 * [**Javacord**](https://github.com/Javacord/Javacord), a popular Java library for creating Discord bots.
 * [**bStats**](https://bstats.org/), the de facto standard for collecting statistics of Minecraft server plugins. Used by more than 5,000 plugins on over 200,000 servers worldwide. Handles over 2 billion requests per month.
 * [**Recipes**](https://github.com/Bastian/recipes), a simple website that renders recipes that are written in markdown.
+
+### 📖 Publications
+
+* [**Franziska Braun, Markus Förstel, Bastian Oppermann, Andreas Erzigkeit, Hartmut Lehfeld, Thomas Hillemacher, and Korbinian Riedhammer 2022. Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.html)
