@@ -12,4 +12,4 @@
 
 ### 📖 Publications
 
-* [**Franziska Braun, Markus Förstel, Bastian Oppermann, Andreas Erzigkeit, Hartmut Lehfeld, Thomas Hillemacher, and Korbinian Riedhammer 2022. Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.html)
+* [**Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.html)
