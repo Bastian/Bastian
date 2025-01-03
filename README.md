@@ -2,7 +2,7 @@
 
 *Professional full-stack developer & open source enthusiast*
 
-![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bastian&show_icons=true&include_all_commits=true&hide_title=true&count_private=true)
+![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bastian&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&hide_rank=true&disable_animations=true&show=prs_merged,prs_merged_percentage)
 
 ### 📋 My Projects
 
@@ -11,5 +11,5 @@
 
 ### 📖 Publications
 
-* [**Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.html) ([PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2022/braun22_interspeech.pdf))
+* [**Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.html) ([PDF](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.pdf))
 
