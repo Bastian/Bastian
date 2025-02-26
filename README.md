@@ -11,5 +11,5 @@
 
 ### 📖 Publications
 
-* [**Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.html) ([PDF](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.pdf))
+* [**Automated Evaluation of Standardized Dementia Screening Tests. In Proc. Interspeech 2022 (pp. 2478–2482).**](https://doi.org/10.21437/Interspeech.2022-10436) ([PDF](https://www.isca-speech.org/archive/interspeech_2022/braun22_interspeech.pdf))
 
