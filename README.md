@@ -7,7 +7,7 @@
 ### 📋 My Projects
 
 * [**Javacord**](https://github.com/Javacord/Javacord), a popular Java library for creating Discord bots.
-* [**bStats**](https://github.com/Bastian/bStats), the de facto standard for collecting statistics of Minecraft server plugins. Actively used by more than 6,000 plugins on over 200,000 servers worldwide, processing over 3,000,000,000 requests per month.
+* [**bStats**](https://github.com/Bastian/bStats), the de facto standard for collecting statistics of Minecraft server plugins. Actively used by more than 8,000 plugins across more than 180,000 servers worldwide, processing more than 4 billion requests per month.
 
 ### 📖 Publications
 
