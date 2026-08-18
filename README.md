@@ -2,7 +2,7 @@
 
 *Full-stack developer & open source enthusiast. I use NixOS btw*
 
-![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bastian&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&hide_rank=true&disable_animations=true&show=prs_merged,prs_merged_percentage)
+![Bastian's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bastian&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&hide_rank=true&disable_animations=true&show=prs_merged,prs_merged_percentage)
 
 ### 📋 My Projects
 
